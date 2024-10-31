@@ -2,7 +2,8 @@
 
 🌱 Je suis actuellement en deuxième année de BUT informatique à l'IUT de Bordeaux à Gradignan (33).  
 Mon domaine favori de l'informatique est le web, surtout le front, ainsi que le back-end.  
-Ce que j'aime le plus, c'est donner vie à des sites web ou des logiciels avec une touche d'humour et un design équilibré.  
+Ce que j'apprécie le plus, c'est donner vie à des sites web ou des logiciels avec une touche d'humour et un design équilibré.  
+J'aime également dessiner (en traditionnel et digital) et composer des musiques (sur MuseScore).  
 
 👩‍💻 Mes compétences en bref :  
 - Web : HTML, CSS, JavaScript, PHP, ainsi que le framework Symfony, Markdown
@@ -23,6 +24,7 @@ Ce que j'aime le plus, c'est donner vie à des sites web ou des logiciels avec u
 🌱 I'm in my second year of a Bachelor's at BUT Informatique (3-year Bachelor of General Computing) at the Bordeaux IUT in Gradignan (33).  
 My favorite areas in computer science are web development, mostly front-end and back-end.  
 I love to bring websites or software to life with a touch of humor and balanced design.  
+I also like to draw (traditionally and digitally) and compose music (on MuseScore).  
 
 👩‍💻 My skills at a glance:  
 - Web: HTML, CSS, JavaScript, PHP, as well as the Symfony framework, Markdown
